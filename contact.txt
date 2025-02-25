@@ -1,0 +1,20 @@
+John Doe,1234567890,john@example.com
+Alice Smith,0987654321,alice@example.com
+Bob John,1112223333,bob@company.com
+Carol White,4445556666,carol@company.com
+David Brown,7778889999,david@example.com
+Eve Kim,6665554444,eve@example.com
+Frank Miller,3334445555,frank@example.com
+Grace Wilson,2223334444,grace@example.com
+Hannah Clark,5556667777,hannah@example.com
+Ian Lewis,8889990000,ian@example.com
+Shami,7780609933,shami@gmail.com
+Shamshad,7780609931,shamshad@gmail.com
+Sharif Mutela,9666257540,sharif@gmail.com
+Sara Bee,9666564111,sara@gmail.com
+Masthan Valli,9666564110,masthan@gmail.com
+Sara Masthan,9666564123,Masthansara@gmail.com
+Sharif,9666257541,sharifm@gmail.com
+Shami Masthan,7780609932,shamimasthan@gmail.com
+Masthan valli mutala,9666564124,masthanmutala@gmail.com
+shami shamshad,7780609944,shamimasthanvalli@gmail.com
